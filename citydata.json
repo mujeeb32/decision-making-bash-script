@@ -1,0 +1,6 @@
+{
+"Lucknow":{"Kanpur":"300","Unnao":"150","Allahabad":"800"},
+"Kanpur":{"Lucknow":"300","Unnao":"150","Agra":"500"},
+"Agra":{"Mathura":"250","Kanpur":"500","New_Delhi":"240"},
+"Mathura":{"New_Delhi":"200","Agra":"250","Lucknow":"700"}
+}
